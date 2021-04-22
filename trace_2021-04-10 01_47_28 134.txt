@@ -1,0 +1,36 @@
+VersionCode: 3100
+VersionName: 6.0.0
+ColorOS Version: UNKNOW
+Mobile MODEL: RMX2030
+Android Version: 10
+Android API: 29
+getNetworkTypeName: mobile
+WindowWidth And WindowHeight: 720*1544
+WindowDensity:2.0
+System's currenTimeMillis: 1617994048184
+TimeZone: libcore.util.ZoneInfo[id="Asia/Jakarta",mRawOffset=25200000,mEarliestRawOffset=25632000,mUseDst=false,mDstSavings=0,transitions=7]
+
+2021-04-07 18_42_44 736 / SIMS_ReceiverHandler : sendMessage=EVENT_SET_PRIMARY_SLOT, MSG_DELAY_TIME=30000, time=: 1617795764734
+2021-04-07 18_42_45 263 / SIMS_MainThreadHandler : reason: 11, timestamp: 1617795765263
+2021-04-07 18_42_45 264 / SIMS_MainThreadHandler : subId: 3, slotIndex: 0
+2021-04-07 18_42_57 522 / SIMS_ReceiverHandler : sendMessage=EVENT_SET_PRIMARY_SLOT, MSG_DELAY_TIME=3000, time=: 1617795777522
+2021-04-07 18_43_00 543 / SIMS_MainThreadHandler : reason: 7, timestamp: 1617795780543
+2021-04-07 18_43_00 544 / SIMS_MainThreadHandler : pre_primary_slot: 0, pre_primary_subId: 3
+2021-04-07 18_43_00 547 / SIMS_MainThreadHandler : current_primary_slot: 0, current_primary_subId: 3, actived_subids: [3], insert_count: 1
+2021-04-07 18_43_05 429 / SIMS_ReceiverHandler : sendMessage=EVENT_SET_PRIMARY_SLOT, MSG_DELAY_TIME=30000, time=: 1617795785429
+2021-04-07 18_43_05 438 / SIMS_ReceiverHandler : sendMessage=EVENT_SET_PRIMARY_SLOT, MSG_DELAY_TIME=3000, time=: 1617795785437
+2021-04-07 18_43_08 568 / SIMS_MainThreadHandler : reason: 7, timestamp: 1617795788567
+2021-04-07 18_43_08 568 / SIMS_MainThreadHandler : pre_primary_slot: 0, pre_primary_subId: 3
+2021-04-07 18_43_08 578 / SIMS_MainThreadHandler : current_primary_slot: 0, current_primary_subId: 3, actived_subids: [3], insert_count: 1
+2021-04-18 01_11_17 657 / SIMS_ReceiverHandler : sendMessage=EVENT_SET_PRIMARY_SLOT, MSG_DELAY_TIME=30000, time=: 1618683077630
+2021-04-18 01_11_18 175 / SIMS_MainThreadHandler : reason: 11, timestamp: 1618683078174
+2021-04-18 01_11_18 176 / SIMS_MainThreadHandler : subId: 3, slotIndex: 0
+2021-04-18 01_11_31 538 / SIMS_ReceiverHandler : sendMessage=EVENT_SET_PRIMARY_SLOT, MSG_DELAY_TIME=3000, time=: 1618683091538
+2021-04-18 01_11_34 599 / SIMS_MainThreadHandler : reason: 7, timestamp: 1618683094599
+2021-04-18 01_11_34 599 / SIMS_MainThreadHandler : pre_primary_slot: 0, pre_primary_subId: 3
+2021-04-18 01_11_34 606 / SIMS_MainThreadHandler : current_primary_slot: 0, current_primary_subId: 3, actived_subids: [3], insert_count: 1
+2021-04-18 01_11_35 285 / SIMS_ReceiverHandler : sendMessage=EVENT_SET_PRIMARY_SLOT, MSG_DELAY_TIME=30000, time=: 1618683095284
+2021-04-18 01_11_35 302 / SIMS_ReceiverHandler : sendMessage=EVENT_SET_PRIMARY_SLOT, MSG_DELAY_TIME=3000, time=: 1618683095302
+2021-04-18 01_11_38 377 / SIMS_MainThreadHandler : reason: 7, timestamp: 1618683098377
+2021-04-18 01_11_38 377 / SIMS_MainThreadHandler : pre_primary_slot: 0, pre_primary_subId: 3
+2021-04-18 01_11_38 396 / SIMS_MainThreadHandler : current_primary_slot: 0, current_primary_subId: 3, actived_subids: [3], insert_count: 1
